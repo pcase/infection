@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InfectionApp</string>
+    <string name="user">User</string>
+    <string name="version">Version</string>
+</resources>
