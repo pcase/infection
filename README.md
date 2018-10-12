@@ -1,5 +1,5 @@
 # infection
-KA project
+Android app for a Khan Academy take-home project
 
 This is an Android Studio project
 
